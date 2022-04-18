@@ -26,3 +26,8 @@ CREATE TABLE favorites(
     FOREIGN KEY (atttraction_id)
     REFERENCES attraction(id)
 );
+
+DROP DATABASE IF EXISTS user_db;
+
+CREATE DATABASE user_db;
+
