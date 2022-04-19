@@ -1,4 +1,4 @@
-const router = require('express').Router(); // we want an instance of the default router from express
+const router = require('express').Router();
 
 const frontendRoutes = require('./frontendRoutes');
 const apiRoutes = require('./api');
