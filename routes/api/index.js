@@ -1,9 +1,10 @@
 const router = require('express').Router( );
-const locationRoute = require('./location-routes');
-const travelerRoute = require('./traveler-routes');
-const tripRoute = require('./trip-routes');
+// const locationRoute = require('./location-routes');
+// const travelerRoute = require('./traveler-routes');
+// const tripRoute = require('./trip-routes');
+const yelpRoutes = require('./yelp');
 
-router.use
+router.use('/yelp', yelpRoutes);
 
 
 router.use((req, res) => {
