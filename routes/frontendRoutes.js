@@ -4,7 +4,10 @@ const router = require('express').Router(); // we want an instance of the defaul
 // const { Attraction, Favorite, User } = require('./../models');
 
 router.get('/', async (req, res) => {
-    res.send('route works');
+   // res.send('route works');
+    res.render('homepage');
 });
+
+
 
 module.exports = router;
