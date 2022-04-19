@@ -1,7 +1,9 @@
-const router = require('express').Router(); // we want an instance of the default router from express
+const router = require('express').Router();
 
-const frontendRoutes = require('./frontendRoutes');
+const apiRoutes = require('./api');
+const homeRoutes = require('./homeRoutes');
 
-router.use('/', frontendRoutes);
+router.use('/', homeRoutes);
+router.use('/api', apiRoutes);
 
 module.exports = router;
