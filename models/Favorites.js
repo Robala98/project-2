@@ -19,11 +19,11 @@ Favorites.init(
         key: 'id'
       }
     },
-    attractions_id: {
+    thingsToDo_id: {
       type: DataTypes.INTEGER,
       allowNull: false,
       references:{
-        model: 'attractions',
+        model: 'thingsToDo',
         key: 'id'
       }
     }
