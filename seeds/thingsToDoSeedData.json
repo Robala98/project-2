@@ -1,0 +1,22 @@
+[
+    {
+        "food": "Odelay Tex-mex",
+        "activities": "AT&T Stadium",
+        "hotel": "The Adolphus"
+    },
+    {
+        "food": "Velvet Taco",
+        "activities": "Art District",
+        "hotel": "Embassy Suites Dallas - Lovefield"
+    },
+    {
+        "food": "Ocean Prime",
+        "activities": "Dallas Museum of Art",
+        "hotel": "Magnolia Hotel Dallas Downtown"
+    },
+    {
+        "food": "Flying Fish",
+        "activities": "Reunion Tower",
+        "hotel": "Omni Dallas Hotel"
+    }      
+]
