@@ -17,8 +17,8 @@ In this project, we worked together to create Explore Dallas. The application gi
 
 ## Link To The Final Page
 
-[Link to final webpage](https://caitlinscodes.github.io/group_project_one/)
+[Link to final webpage](https://evening-retreat-17355.herokuapp.com/)
 
 ## Link to Google Slides Presentation
 
-[Link to final presentation](https://docs.google.com/presentation/d/16faqY2GvF4O-nCy4sc1ajyY9Q2oWy2N8Ui5YYqlSHFw/edit?usp=sharing)
+[Link to final presentation](https://docs.google.com/presentation/d/1sTfwb8rwNuLucvyl42GpYJWJfta5G_ZMyLnjEaRrg8g/edit?usp=sharing)
